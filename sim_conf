@@ -1,0 +1,11 @@
+{
+  "partners_to_involve_in_simulation": ["C0F515F0A2D0A5D9F854008BA76EB537"],
+  "partners_to_read_data_from": ["C0F515F0A2D0A5D9F854008BA76EB537"],
+  "number_of_simulation_steps": 40,
+  "npm": 0.10,
+  "cost": 0.12,
+  "seed": 12,
+  "how_many_ratio": 3.1,
+  "beta": 13,
+  "click_cost": "trzydzieści eurocentów zamiast 9 dla pierwszego partnera C0 coś tam coś tam"
+}
